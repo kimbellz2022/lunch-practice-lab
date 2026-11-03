@@ -7,4 +7,3 @@
   { "name": "순두부찌개", "category": "한식", "price": 8500, "distance": 350, "solo": true },
   { "name": "비빔밥", "category": "한식", "price": 9000, "distance": 250, "solo": true },
 ]
-]
